@@ -22,9 +22,9 @@ def start_chrome():
     ]
     UA = user_agent[random.randrange(0, len(user_agent), 1)]
 
-    
     global option
     option = Options()  
+    option.add_argument("--user-data-dir=user")
     option.add_argument('--lang=ja-JP')
     option.add_argument('--user-agent=' + UA)
     option.add_argument('--ignore-certificate-errors')
