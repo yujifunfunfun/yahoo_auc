@@ -1,0 +1,91 @@
+2021-09-13 09:20:00,541 - INFO - auto_listing.py - __main__ - listing_item - name 'driver' is not defined
+2021-09-13 09:20:29,934 - INFO - auto_listing.py - __main__ - listing_item - name 'driver' is not defined
+2021-09-13 10:37:27,798 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Cannot read properties of null (reading 'style')
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 10:38:31,994 - INFO - auto_listing.py - __main__ - listing_item - Message: invalid argument: File not found : C:\Users\30043064\Documents\job\yahoo_auction\product.jpg
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 10:39:14,425 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/div/div[13]/label[not(contains(@class, "is-check"))]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 10:41:31,604 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/div/div[13]/label[not(contains(@class, "is-check"))]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 10:42:47,838 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/div/div[13]/label[not(contains(@class, "is-check"))]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 11:00:34,866 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/div/div[22]/div[2]/label[not(contains(@class, "is-check"))]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 11:18:47,964 - INFO - auto_listing.py - __main__ - listing_item - Message: element click intercepted: Element <span class="CheckBox__viewCheckBox js-checkbox-view"></span> is not clickable at point (168, 487). Other element would receive the click: <iframe id="rteEditorComposition0" frameborder="0" style="width:100%;height:250px;background-color:#FFF;border: 1px solid gray;resize:vertical;" src="about:blank"></iframe>
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 11:19:53,133 - INFO - auto_listing.py - __main__ - listing_item - 'WebElement' object is not subscriptable
+2021-09-13 11:22:17,256 - INFO - auto_listing.py - __main__ - listing_item - 'WebElement' object is not subscriptable
+2021-09-13 11:36:02,903 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()="落札者"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 11:38:37,846 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()="			落札者		"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 11:40:21,140 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()=" 落札者 "]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 11:41:50,471 - INFO - auto_listing.py - __main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 11:45:19,943 - INFO - auto_listing.py - __main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 12:55:25,314 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 12:56:18,418 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 12:58:49,857 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 13:01:05,368 - INFO - auto_listing.py - __main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 13:02:56,284 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 13:04:20,404 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Overhead__title"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 13:04:58,218 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Overhead__title"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 13:05:43,855 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 13:06:17,938 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 13:06:42,810 - INFO - auto_listing.py - __main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 13:10:02,750 - INFO - auto_listing.py - __main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 13:48:20,732 - INFO - auto_listing.py - __main__ - listing_item - 'NoneType' object has no attribute 'click'
+2021-09-13 13:49:12,026 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()="3日～7日"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 13:55:00,310 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 14:06:40,426 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 14:34:38,734 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()="3～7日"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 14:36:00,206 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 14:38:32,258 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
