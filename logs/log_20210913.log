@@ -89,3 +89,33 @@ from unknown error: web view not found
 2021-09-13 14:38:32,258 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
   (Session info: chrome=93.0.4577.63)
 
+2021-09-13 15:37:03,384 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 15:37:46,472 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 15:38:43,878 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 15:39:15,643 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 15:58:44,650 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 15:59:18,039 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 15:59:35,981 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 16:00:01,012 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 16:10:17,160 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 16:11:30,269 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+

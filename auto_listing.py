@@ -5,6 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.by import By
+from tkinter import Tk
 import eel
 import time
 from logger import *
@@ -108,7 +109,11 @@ def listing_item():
 
             iframe = driver.find_element_by_id('rteEditorComposition0')
             driver.switch_to.frame(iframe)
-            driver.find_element_by_id('0').send_keys(description)
+            tk = Tk()
+            tk.withdraw()
+            tk.clipboard_clear()
+            tk.clipboard_append(description)
+            driver.find_element_by_id('0').send_keys(Keys.CONTROL, "v")
             driver.switch_to.default_content()
 
             Select(driver.find_element_by_name("loc_cd")).select_by_visible_text(location)
