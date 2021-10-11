@@ -1,0 +1,8 @@
+[15308:16108:1002/114756.886:ERROR:device_event_log_impl.cc(214)] [11:47:56.886] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+[15308:16108:1002/114756.889:ERROR:device_event_log_impl.cc(214)] [11:47:56.889] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+[15308:6336:1002/114756.892:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[15308:6336:1002/114757.023:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+[15308:6336:1002/114757.041:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[15308:6336:1002/114757.174:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+[15308:16108:1002/114824.846:INFO:CONSOLE(2)] "RAPID WARNING: Specified module not in DOM: prbnrtop", source: https://s.yimg.jp/images/ds/ult/auctions/rapidjp-1.0.0.js (2)
+[15308:16108:1002/114903.076:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

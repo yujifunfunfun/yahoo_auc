@@ -119,3 +119,51 @@ from unknown error: web view not found
 2021-09-13 16:11:30,269 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
   (Session info: chrome=93.0.4577.63)
 
+2021-09-13 19:07:39,295 - INFO - auto_listing.py - __main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 19:09:00,783 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Cannot read properties of null (reading 'style')
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 19:10:30,287 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 19:14:07,632 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 19:19:16,800 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 19:20:07,058 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 19:24:37,815 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 19:30:52,509 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Cannot read properties of null (reading 'style')
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 20:41:44,546 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 20:47:08,051 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 20:51:51,021 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 20:52:39,683 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 20:53:34,670 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 20:54:07,943 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 20:55:02,763 - INFO - auto_listing.py - __main__ - listing_item - 11542
+2021-09-13 20:55:03,378 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 20:55:46,236 - INFO - auto_listing.py - __main__ - listing_item - 11542
+2021-09-13 20:55:46,453 - INFO - auto_listing.py - __main__ - listing_item - 11542
+2021-09-13 20:55:46,822 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 20:56:56,471 - INFO - auto_listing.py - __main__ - listing_item - 11542
+2021-09-13 20:56:56,679 - INFO - auto_listing.py - __main__ - listing_item - 11542
+2021-09-13 20:56:57,137 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 20:59:46,168 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not list
+2021-09-13 21:55:29,041 - INFO - auto_listing.py - __main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 22:44:59,833 - INFO - auto_listing.py - __main__ - listing_item - 'NoneType' object has no attribute 'send_keys'
+2021-09-13 22:56:41,954 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 23:03:21,165 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 23:05:30,711 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 23:12:23,347 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-13 23:17:52,490 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+

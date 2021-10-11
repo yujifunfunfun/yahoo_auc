@@ -1,0 +1,186 @@
+2021-09-14 09:14:27,533 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 09:17:20,945 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 09:17:53,224 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 10:34:51,265 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 10:35:42,159 - INFO - auto_listing.py - __main__ - listing_item - Message: invalid element state: Failed to execute 'querySelector' on 'Document': '#0' is not a valid selector.
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 10:37:36,207 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 10:38:21,798 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 10:43:44,820 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 10:44:14,493 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 10:46:28,118 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 10:55:36,520 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 10:56:09,789 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 11:04:20,958 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Unexpected identifier
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 11:07:50,602 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Unexpected identifier
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 11:09:47,495 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Unexpected identifier
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 11:13:30,858 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Unexpected identifier
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 11:19:28,407 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Invalid or unexpected token
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 13:25:02,792 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="selectFile"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 13:25:34,061 - INFO - auto_listing.py - __main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 13:29:17,687 - INFO - auto_listing.py - __main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 13:30:07,858 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="FormReqrd"]/section[2]/div[6]/label[2]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 13:32:16,580 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not str
+2021-09-14 13:33:12,365 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not str
+2021-09-14 13:34:13,038 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not str
+2021-09-14 13:35:30,041 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not str
+2021-09-14 13:36:21,930 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not str
+2021-09-14 13:40:01,746 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not str
+2021-09-14 13:40:50,304 - INFO - auto_listing.py - __main__ - listing_item - ppppp
+2021-09-14 13:40:50,516 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not str
+2021-09-14 13:41:45,782 - INFO - auto_listing.py - __main__ - listing_item - ppppp
+2021-09-14 13:41:45,842 - INFO - auto_listing.py - __main__ - listing_item - qqqqq
+2021-09-14 13:41:45,904 - INFO - auto_listing.py - __main__ - listing_item - %d format: a number is required, not str
+2021-09-14 13:46:10,207 - INFO - auto_listing.py - __main__ - listing_item - sdfavva
+2021-09-14 13:46:10,339 - INFO - auto_listing.py - __main__ - listing_item - aaaaaaa
+2021-09-14 13:46:10,372 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()="3〜7日"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 13:52:26,988 - INFO - auto_listing.py - __main__ - listing_item - sdfavva
+2021-09-14 13:52:27,121 - INFO - auto_listing.py - __main__ - listing_item - aaaaaaa
+2021-09-14 13:52:27,710 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Cannot set properties of null (setting 'value')
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 13:55:13,432 - INFO - auto_listing.py - __main__ - listing_item - aaaaaaa
+2021-09-14 13:55:13,465 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: Cannot set properties of null (setting 'value')
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 13:56:22,857 - INFO - auto_listing.py - __main__ - listing_item - aaaaaaa
+2021-09-14 13:56:22,960 - INFO - auto_listing.py - __main__ - listing_item - bbbb
+2021-09-14 13:59:16,072 - INFO - auto_listing.py - __main__ - listing_item - aaaaaaa
+2021-09-14 13:59:16,165 - INFO - auto_listing.py - __main__ - listing_item - bbbb
+2021-09-14 14:29:49,969 - INFO - auto_listing.py - __main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 14:32:25,508 - INFO - auto_listing.py - __main__ - listing_item - Message: Could not locate element with index 13
+
+2021-09-14 14:33:07,651 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: 配送委託会社にて一律料金 is not defined
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 14:35:03,102 - INFO - auto_listing.py - __main__ - listing_item - aaaaaaa
+2021-09-14 14:35:03,196 - INFO - auto_listing.py - __main__ - listing_item - bbbb
+2021-09-14 15:42:28,799 - INFO - auto_listing.py - __main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 16:02:47,221 - INFO - auto_listing.py - __main__ - listing_item - '>' not supported between instances of 'list' and 'int'
+2021-09-14 16:19:20,405 - INFO - auto_listing.py - __main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 16:21:18,600 - INFO - auto_listing.py - __main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 16:46:37,890 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="auc_AutoExtension"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 16:48:00,364 - INFO - auto_listing.py - __main__ - listing_item - Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 16:49:36,331 - INFO - auto_listing.py - __main__ - listing_item - Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 16:51:11,713 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 16:51:11,901 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 16:51:12,017 - INFO - auto_listing.py - __main__ - listing_item - Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 16:54:09,961 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 16:54:10,119 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 16:54:10,156 - INFO - auto_listing.py - __main__ - listing_item - Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 16:55:12,595 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 16:55:12,787 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 16:55:12,836 - INFO - auto_listing.py - __main__ - listing_item - Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 16:56:27,766 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 16:56:27,908 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 16:56:27,942 - INFO - auto_listing.py - __main__ - listing_item - Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 16:58:03,463 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 16:58:03,617 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 16:58:03,643 - INFO - auto_listing.py - __main__ - listing_item - 3
+2021-09-14 16:58:03,670 - INFO - auto_listing.py - __main__ - listing_item - Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 16:59:39,615 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 16:59:39,814 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 16:59:39,942 - INFO - auto_listing.py - __main__ - listing_item - Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 17:00:18,197 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 17:00:18,362 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 17:00:18,460 - INFO - auto_listing.py - __main__ - listing_item - 0
+2021-09-14 17:00:18,490 - INFO - auto_listing.py - __main__ - listing_item - Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 17:01:00,492 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 17:01:00,661 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 17:01:00,760 - INFO - auto_listing.py - __main__ - listing_item - 0
+2021-09-14 17:01:00,795 - INFO - auto_listing.py - __main__ - listing_item - a
+2021-09-14 17:01:00,820 - INFO - auto_listing.py - __main__ - listing_item - b
+2021-09-14 17:01:00,850 - INFO - auto_listing.py - __main__ - listing_item - c
+2021-09-14 17:01:00,880 - INFO - auto_listing.py - __main__ - listing_item - d
+2021-09-14 17:01:00,911 - INFO - auto_listing.py - __main__ - listing_item - e
+2021-09-14 17:01:46,565 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 17:01:46,713 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 17:04:46,595 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 17:04:46,737 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 17:05:36,476 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 17:05:36,619 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 17:07:31,449 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 17:07:31,604 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 19:07:03,522 - INFO - auto_listing.py - __main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 19:09:24,916 - INFO - auto_listing.py - __main__ - listing_item - 1
+2021-09-14 19:09:25,090 - INFO - auto_listing.py - __main__ - listing_item - 2
+2021-09-14 19:29:46,240 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-14 20:19:23,722 - INFO - auto_listing.py - __main__ - listing_item - 14.811523199081421
+2021-09-14 20:22:01,905 - INFO - auto_listing.py - __main__ - listing_item - 9.653969049453735
+2021-09-14 20:23:17,107 - INFO - auto_listing.py - __main__ - listing_item - 2.8156988620758057
+2021-09-14 20:33:04,804 - INFO - auto_listing.py - __main__ - listing_item - 2.904737710952759

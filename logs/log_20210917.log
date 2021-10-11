@@ -1,0 +1,27 @@
+2021-09-17 08:26:02,552 - INFO - auto_listing.py - __main__ - listing_item2 - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-17 08:26:04,658 - INFO - auto_listing.py - __main__ - listing_item3 - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-17 08:26:06,242 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-17 08:28:27,162 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-17 08:28:28,525 - INFO - auto_listing.py - __main__ - listing_item3 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-17 08:28:29,475 - INFO - auto_listing.py - __main__ - listing_item2 - Message: no such window: window was already closed
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-17 08:35:45,608 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-17 08:35:54,907 - INFO - auto_listing.py - __main__ - listing_item3 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-17 08:36:00,949 - INFO - auto_listing.py - __main__ - listing_item2 - 'NoneType' object has no attribute 'tag_name'

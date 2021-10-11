@@ -1,0 +1,92 @@
+2021-10-01 19:51:20,311 - INFO - auto_listing.py - __mp_main__ - listing_item - 197 - Message: javascript error: Unexpected string
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 19:51:36,109 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 446 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 19:51:37,043 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 323 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 19:55:40,266 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 322 - Message: unknown error: cannot determine loading status
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 19:55:54,564 - INFO - auto_listing.py - __mp_main__ - listing_item - 196 - Message: javascript error: Unexpected string
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:05:07,596 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 445 - Message: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:05:24,801 - INFO - auto_listing.py - __mp_main__ - listing_item - 196 - Message: javascript error: Unexpected string
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:05:30,344 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 322 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:12:42,572 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 445 - Message: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:12:59,242 - INFO - auto_listing.py - __mp_main__ - listing_item - 196 - Message: javascript error: Unexpected string
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:13:07,549 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 322 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:15:24,618 - INFO - auto_listing.py - __mp_main__ - listing_item - 196 - Message: javascript error: Unexpected string
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:15:26,777 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 445 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:15:38,606 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 322 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:17:11,803 - INFO - auto_listing.py - __mp_main__ - listing_item - 196 - Message: javascript error: missing ) after argument list
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:17:21,464 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 322 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:23:25,920 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 445 - Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:23:46,361 - INFO - auto_listing.py - __mp_main__ - listing_item - 196 - Message: javascript error: Unexpected string
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:23:47,434 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 322 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:47:14,945 - INFO - auto_listing.py - __mp_main__ - listing_item - 197 - 'WebDriver' object has no attribute 'getElementById'
+2021-10-01 20:47:21,693 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 323 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:48:32,801 - INFO - auto_listing.py - __mp_main__ - listing_item - 197 - Message: javascript error: Unexpected token '<'
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:48:40,349 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 323 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:51:19,664 - INFO - auto_listing.py - __mp_main__ - listing_item - 196 - Message: javascript error: Unexpected string
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:51:22,563 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 445 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:51:24,757 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 322 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:57:49,013 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 446 - Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:58:11,211 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 323 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-01 20:58:21,457 - INFO - auto_listing.py - __mp_main__ - listing_item - 197 - Message: javascript error: Unexpected identifier
+  (Session info: chrome=94.0.4606.61)
+

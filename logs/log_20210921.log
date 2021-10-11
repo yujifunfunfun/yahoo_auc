@@ -1,0 +1,139 @@
+2021-09-21 13:36:39,955 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:39:22,417 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:39:22,896 - INFO - auto_listing.py - __mp_main__ - listing_item - aaaaa
+2021-09-21 13:41:19,125 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:42:22,949 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:42:42,686 - INFO - auto_listing.py - __mp_main__ - listing_item - aaaaa
+2021-09-21 13:46:22,603 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:46:33,612 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:46:51,452 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="HeaderExpand__title"]"}
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:51:17,861 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:51:19,526 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:51:36,019 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: javascript error: document.getElementsById is not a function
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:52:18,808 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: unknown error: cannot determine loading status
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:52:30,064 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:55:20,739 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:55:33,190 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:55:44,269 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 13:59:56,378 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:00:04,068 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:00:28,335 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:01:08,349 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:01:22,722 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:01:39,861 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:01:59,457 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:02:21,914 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: no such window: window was already closed
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:13:08,561 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:13:20,821 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:13:32,914 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 'NoneType' object has no attribute 'click'
+2021-09-21 14:16:28,198 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:16:32,055 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:16:39,950 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:18:11,610 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:18:16,024 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:18:19,420 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:19:22,017 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:19:22,999 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:25:37,390 - INFO - auto_listing.py - __main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:25:46,055 - INFO - auto_listing.py - __main__ - listing_item3 - 'NoneType' object has no attribute 'is_selected'
+2021-09-21 14:25:56,896 - INFO - auto_listing.py - __main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:35:11,514 - INFO - auto_listing.py - __main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:35:42,203 - INFO - auto_listing.py - __main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-21 14:35:43,931 - INFO - auto_listing.py - __main__ - listing_item3 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+

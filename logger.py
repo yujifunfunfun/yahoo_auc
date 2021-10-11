@@ -2,7 +2,7 @@ import os
 import logging 
 from datetime import datetime
 
-LOG_FORMAT='%(asctime)s - %(levelname)s - %(filename)s - %(name)s - %(funcName)s - %(message)s'
+LOG_FORMAT='%(asctime)s - %(levelname)s - %(filename)s - %(name)s - %(funcName)s - %(lineno)s - %(message)s'
 LOG_DIR_NAME='logs'
 
 def set_logger(name):

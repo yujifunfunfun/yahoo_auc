@@ -1,0 +1,218 @@
+2021-09-15 11:05:32,392 - INFO - auto_listing.py - __main__ - listing_item - Message: javascript error: 冷蔵 is not defined
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 11:21:46,145 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 11:28:48,725 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 12:10:11,723 - INFO - auto_listing.py - __main__ - listing_item - 'NoneType' object is not iterable
+2021-09-15 12:20:05,794 - INFO - auto_listing.py - __main__ - listing_item2 - ('Connection aborted.', ConnectionResetError(10054, '既存の接続はリモート ホストに強制的に切断されました。', None, 10054, None))
+2021-09-15 12:25:44,677 - INFO - auto_listing.py - __main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 12:28:02,728 - INFO - auto_listing.py - __main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 12:32:04,516 - INFO - auto_listing.py - __main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 13:29:53,004 - INFO - auto_listing.py - __main__ - listing_item3 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 13:30:33,634 - INFO - auto_listing.py - __main__ - listing_item3 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 13:30:40,394 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 13:30:41,475 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 13:32:25,921 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 13:35:23,516 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 13:53:39,245 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="selectFile"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 13:53:39,364 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 13:53:39,521 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 13:58:01,622 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 13:58:02,066 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 'NoneType' object has no attribute 'is_selected'
+2021-09-15 14:18:57,431 - INFO - auto_listing.py - __main__ - listing_item4 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:23:44,149 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:23:45,121 - INFO - auto_listing.py - __mp_main__ - listing_item4 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:23:45,749 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:24:16,213 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:24:16,418 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:24:16,506 - INFO - auto_listing.py - __mp_main__ - listing_item4 - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:24:16,558 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:53:35,290 - INFO - auto_listing.py - __main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:53:39,394 - INFO - auto_listing.py - __main__ - listing_item2 - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:53:43,177 - INFO - auto_listing.py - __main__ - listing_item3 - Message: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:58:06,199 - INFO - auto_listing.py - __main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 14:58:10,148 - INFO - auto_listing.py - __main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 15:00:29,275 - INFO - auto_listing.py - __main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 15:00:32,122 - INFO - auto_listing.py - __main__ - listing_item2 - Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 15:01:08,500 - INFO - auto_listing.py - __main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 15:07:57,354 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 15:12:00,515 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 15:12:00,663 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 15:12:01,602 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 15:12:01,931 - INFO - auto_listing.py - __mp_main__ - listing_item4 - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 15:14:19,982 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 15:26:53,596 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 16:40:21,245 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 16:40:21,968 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 16:57:19,109 - INFO - auto_listing.py - __main__ - listing_item2 - click() takes 1 positional argument but 2 were given
+2021-09-15 17:00:10,720 - INFO - auto_listing.py - __main__ - listing_item - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 17:15:44,508 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 21:49:16,420 - INFO - auto_listing.py - __main__ - listing_item2 - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 21:49:33,640 - INFO - auto_listing.py - __main__ - listing_item3 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 21:49:35,826 - INFO - auto_listing.py - __main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 21:51:37,554 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 21:51:50,830 - INFO - auto_listing.py - __main__ - listing_item3 - ('Connection aborted.', ConnectionResetError(10054, '既存の接続はリモート ホストに強制的に切断されました。', None, 10054, None))
+2021-09-15 21:51:50,909 - INFO - auto_listing.py - __main__ - listing_item2 - ('Connection aborted.', ConnectionResetError(10054, '既存の接続はリモート ホストに強制的に切断されました。', None, 10054, None))
+2021-09-15 21:53:50,660 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 21:54:01,414 - INFO - auto_listing.py - __main__ - listing_item3 - 'NoneType' object has no attribute 'send_keys'
+2021-09-15 21:54:02,505 - INFO - auto_listing.py - __main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 21:56:35,192 - INFO - auto_listing.py - __main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 21:59:09,622 - INFO - auto_listing.py - __main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 22:10:21,550 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="selectFile"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 22:10:43,090 - INFO - auto_listing.py - __main__ - listing_item3 - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="selectFile"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 22:10:57,789 - INFO - auto_listing.py - __main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 22:18:42,503 - INFO - auto_listing.py - __main__ - listing_item - 'NoneType' object has no attribute 'is_selected'
+2021-09-15 22:19:06,470 - INFO - auto_listing.py - __main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="auc_preview_submit_up"]"}
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 22:19:39,745 - INFO - auto_listing.py - __main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 22:27:57,929 - INFO - auto_listing.py - __main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 23:15:12,489 - INFO - auto_listing.py - __main__ - listing_item - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 23:15:15,890 - INFO - auto_listing.py - __main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 23:15:19,110 - INFO - auto_listing.py - __main__ - listing_item3 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.63)
+
+2021-09-15 23:18:45,454 - INFO - auto_listing.py - __main__ - listing_item - ('Connection aborted.', ConnectionResetError(10054, '既存の接続はリモート ホストに強制的に切断されました。', None, 10054, None))
+2021-09-15 23:18:45,466 - INFO - auto_listing.py - __main__ - listing_item2 - ('Connection aborted.', ConnectionResetError(10054, '既存の接続はリモート ホストに強制的に切断されました。', None, 10054, None))
+2021-09-15 23:18:45,472 - INFO - auto_listing.py - __main__ - listing_item3 - ('Connection aborted.', ConnectionResetError(10054, '既存の接続はリモート ホストに強制的に切断されました。', None, 10054, None))

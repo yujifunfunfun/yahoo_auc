@@ -1,0 +1,43 @@
+2021-10-02 11:10:22,262 - INFO - auto_listing.py - __mp_main__ - listing_item - 198 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-02 11:10:38,229 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 447 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-02 11:11:39,520 - INFO - auto_listing.py - __mp_main__ - listing_item - 198 - Message: invalid argument: File not found : C:\Users\30043064\Documents\job\yahoo_auction\image\i-img355x355-1626844230"btcugg18489.jpg
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-02 11:11:51,950 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 447 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-02 11:12:04,902 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 324 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-02 11:17:02,125 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 324 - Message: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-02 11:17:19,016 - INFO - auto_listing.py - __mp_main__ - listing_item - 198 - Message: javascript error: Unexpected identifier
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-02 11:17:24,071 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 447 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-02 11:20:12,403 - INFO - auto_listing.py - __mp_main__ - listing_item3 - 447 - Message: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-02 11:20:39,206 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 324 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-02 11:30:50,817 - INFO - auto_listing.py - __mp_main__ - listing_item - 198 - Message: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+2021-10-02 11:48:24,620 - INFO - auto_listing.py - __mp_main__ - listing_item2 - 327 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+

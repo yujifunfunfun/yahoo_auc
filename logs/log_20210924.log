@@ -1,0 +1,11 @@
+2021-09-24 09:57:32,092 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Unable to allocate 6.69 GiB for an array with shape (2506, 113) and data type <U6341
+2021-09-24 10:03:48,779 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-24 10:13:14,658 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-24 10:18:02,985 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=93.0.4577.82)
+

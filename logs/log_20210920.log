@@ -1,0 +1,105 @@
+2021-09-20 16:31:37,316 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:33:37,402 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:34:09,710 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: unknown error: cannot determine loading status
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:34:19,534 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:35:47,614 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:44:36,463 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:46:51,967 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Unable to allocate 6.69 GiB for an array with shape (2506, 113) and data type <U6341
+2021-09-20 16:47:09,176 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:47:09,560 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:48:39,236 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:49:12,243 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:50:26,265 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: element not interactable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:50:32,359 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:51:16,549 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="HeaderExpand__title"]"}
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:51:27,463 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:53:47,656 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:54:19,766 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:54:31,037 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: javascript error: Cannot set properties of null (setting 'value')
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:54:39,954 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:55:21,846 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="nuResubmit"]"}
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 16:55:32,885 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:03:05,145 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:05:09,640 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:05:14,045 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:06:02,331 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:06:04,050 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:07:52,650 - INFO - auto_listing.py - __mp_main__ - listing_item3 - Message: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:08:28,407 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:09:43,294 - INFO - auto_listing.py - __mp_main__ - listing_item - name 'driver2' is not defined
+2021-09-20 17:09:56,580 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:10:39,787 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:14:01,854 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:16:10,243 - INFO - auto_listing.py - __mp_main__ - listing_item - Message: element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=93.0.4577.82)
+
+2021-09-20 17:16:23,187 - INFO - auto_listing.py - __mp_main__ - listing_item2 - Message: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+

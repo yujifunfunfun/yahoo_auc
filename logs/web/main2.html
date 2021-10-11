@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>BUYMA</title>
+</head>
+<body class="px-3 pt-3">
+    <h2 class="mb-3">BUYMA購入期限編集</h2>
+    <div class="mb-4">
+        <p class="mb-0">変更後の日付</p>
+        <input type="number" id="month" class="mb-3" placeholder="9" min='0' max='31'></input>月
+        <br>
+        <input type="number" id="day" class="mb-3" placeholder="19"></input>日
+        <button id="search" class="bg-primary text-white border-primary rounded-pill">実行</button>
+    </div>
+    <div>
+      <p class="mb-0">処理の進行状況確認欄</p>
+      <textarea id="result" cols="30" rows="20"></textarea>
+    </div>
+
+    <script type="text/javascript" src="./eel.js"></script>
+    <script>
+
+        search.addEventListener('click', () => {
+            if(date.value == ''){
+                alert('日付を入力してください')
+            }
+            else{
+                eel.edit_date(month.value,day.value)
+            }
+        })
+
+        eel.expose(view_log_js)
+        function view_log_js(text){
+            result.value += text + '\n'
+        }
+
+
+    </script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+</body>
+</html>
